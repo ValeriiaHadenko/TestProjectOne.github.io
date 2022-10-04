@@ -1,0 +1,23 @@
+header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+form {
+    display: flex;
+}
+
+form input.form-control {
+    width: 350px;
+    height: 50px;
+    border-radius: 50rem;
+    background-color: #e9f1fc;
+    border: none;
+}
+
+form button.btn {
+    margin-left: -140px;
+    padding: 0 40px;
+    font-size: 12px;
+}
